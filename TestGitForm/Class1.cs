@@ -18,4 +18,17 @@ namespace TestGitForm
             return a / b;
         }
     }
+
+    class Class12
+    {
+        public Class12()
+        {
+
+        }
+
+        public int Devide(int a, int b)
+        {
+            return a / b;
+        }
+    }
 }
