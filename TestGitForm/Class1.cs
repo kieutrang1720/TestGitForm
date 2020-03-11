@@ -22,5 +22,15 @@ namespace TestGitForm
         {
             return a + b;
         }
+
+        public int Multiply(int a, int b)
+        {
+            return a * b;
+        }
+
+        public int Devide(int a, int b)
+        {
+            return a / b;
+        }
     }
 }
