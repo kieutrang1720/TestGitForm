@@ -20,6 +20,8 @@ namespace TestGitForm
             container.Add(this);
 
             InitializeComponent();
+
+            string a = "test commit local changes";
         }
     }
 }
