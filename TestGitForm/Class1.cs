@@ -12,22 +12,7 @@ namespace TestGitForm
         {
 
         }
-
-        public int Add(int a, int b)
-        {
-            return a + b;
-        }
-
-        public int Add1(int a, int b)
-        {
-            return a + b;
-        }
-
-        public int Multiply(int a, int b)
-        {
-            return a * b;
-        }
-
+        
         public int Devide(int a, int b)
         {
             return a / b;
