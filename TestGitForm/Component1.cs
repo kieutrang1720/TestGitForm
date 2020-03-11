@@ -22,6 +22,8 @@ namespace TestGitForm
             InitializeComponent();
 
             string a = "test commit local changes";
+            string a = "test commit local changes";
+            string a = "test commit local changes";
         }
     }
 }
