@@ -41,7 +41,7 @@ namespace TestGitForm
 
         }
         
-         public Class12(int a)
+         public Class12(int a, int b)
         {
 
         }
