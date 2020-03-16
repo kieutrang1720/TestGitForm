@@ -40,6 +40,11 @@ namespace TestGitForm
         {
 
         }
+        
+         public Class12(int a)
+        {
+
+        }
 
         public int Devide(int a, int b)
         {
