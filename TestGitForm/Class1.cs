@@ -12,18 +12,18 @@ namespace TestGitForm
         {
 
         }
-        
+
         public int Devide(int a, int b)
         {
             return a / b;
         }
-		
-		 public int Devide1(int a, int b)
+
+        public int Devide1(int a, int b)
         {
             return a / b;
         }
-		
-		 public int Devide2(int a, int b)
+
+        public int Devide2(int a, int b)
         {
             return a / b;
         }
