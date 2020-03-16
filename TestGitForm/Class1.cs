@@ -27,6 +27,11 @@ namespace TestGitForm
         {
             return a / b;
         }
+
+        public int Devide23(int a, int b)
+        {
+            return a / b;
+        }
     }
 
     class Class12
