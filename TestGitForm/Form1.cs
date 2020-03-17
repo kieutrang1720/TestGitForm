@@ -16,5 +16,10 @@ namespace TestGitForm
         {
             InitializeComponent();
         }
+        
+        public void Test()
+        {
+            MessageBox.Show("test");
+        }
     }
 }
