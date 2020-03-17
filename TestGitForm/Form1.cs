@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
+﻿using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -16,10 +13,15 @@ namespace TestGitForm
         {
             InitializeComponent();
         }
-		
-		public void Change2()
-		{
-			// change code
-		}
+
+        public void Test()
+        {
+            MessageBox.Show("test");
+        }
+
+        public void Change2()
+        {
+            // change code
+        }
     }
 }
